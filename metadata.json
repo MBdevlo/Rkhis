@@ -1,0 +1,6 @@
+{
+  "name": "RKHISS - أرخص | Comparer les prix Maroc",
+  "description": "تطبيق RKHISS لمقارنة أسعار المنتجات الغذائية والاستهلاكية بين مرجان، كارفور، أسواق السلام، وبيم في جميع المدن المغربية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
